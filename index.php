@@ -275,7 +275,7 @@
           <img style="height: 19rem; width: 200px;" src="img/boneco do mal.jpg">
         </div>
         <div class="col-2 mt-2">
-          <img style="height: 19rem; width: 200px;" src="img/a orfã.jpg.">
+          <img style="height: 19rem; width: 200px;" src="img/aorfa.jpg">
         </div>
         <div class="col-2 mt-2">
           <img style="height: 19rem;" src="img/invocaçao do mal.jpg">
